@@ -3,39 +3,22 @@
 ## General 📖
 ---    
 - Github:    https://github.com/Kyle7286/pixel-blog
-- Deployed Site: 
+- Deployed Site: https://secure-meadow-73835.herokuapp.com/
 
 ## About/Purpose ❔
 ---
-Pixel Blog is a simple website which allows you to create, read and edit blog posts.
+A simple budget tracking app with off-line support
 
 ## How to Use
 ---
 1. Navigate to website
-2. Signup / Login
-3. Click on a blog to read it
-4. Go to dashboard to see your blogs
-5. Click New Blog to create a new blog
-
-## Technology Used
----
-* mySQL
-* Sequelize.js
-* Boostrap 5
-* Express.js
-* Node.js
-* Session.js
-* Handlebars.js
-* JQuery
-* Heroku
-    
+2. Add/subtract funds
+3. Go offline
+4. Continue to Add/subtract funds
 
 ## Screenshot(s) 📊
 ---
 ![Image](./assets/readme/ss1.png)
-![Image](./assets/readme/ss2.png)
-![Image](./assets/readme/ss3.png)
-![Image](./assets/readme/ss4.png)
 
 ## Thank you 👍 
 ---
